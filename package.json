@@ -1,0 +1,34 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abhishek-kumar2/mean-my-blog.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "javascript",
+    "nodejs",
+    "angularjs",
+    "mongodb"
+  ],
+  "author": "abhishek kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-kumar2/mean-my-blog/issues"
+  },
+  "homepage": "https://github.com/abhishek-kumar2/mean-my-blog#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.1",
+    "morgan": "^1.7.0"
+  }
+}
